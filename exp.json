@@ -1,0 +1,25 @@
+{
+  "name": "AARSE 2016",
+  "description": "Official AARSE 2016 Conference Guide",
+  "slug": "aarse2016",
+  "sdkVersion": "10.0.0",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "primaryColor": "#cccccc",
+  "iconUrl": "http://aarse2016.mak.ac.ug/sites/default/files/default_images/aarse2016_192.png",
+  "notification": {
+    "iconUrl": "http://aarse2016.mak.ac.ug/sites/default/files/default_images/aarse2016_192.png",
+    "color": "#000000"
+  },
+  "loading": {
+    "iconUrl": "http://aarse2016.mak.ac.ug/sites/default/files/default_images/aarse_256.png",
+    "hideExponentText": true
+  },
+  "packagerOpts": {
+    "assetExts": ["ttf"]
+  },
+  "android": {
+    "package": "org.aarse2016.exp",
+    "versionCode": "2",
+  }
+}
